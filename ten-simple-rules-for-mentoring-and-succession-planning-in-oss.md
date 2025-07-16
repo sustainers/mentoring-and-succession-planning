@@ -1,12 +1,7 @@
 # Ten Simple Rules for Mentoring Community Members and Succession Planning in Open Source Communities 
 
-## Co-authors
-Jona Azizaj, CrowdSec + Fedora, jonaazizaj@gmail.com 
-Ruth Cheesley, Mautic, ruth.cheesley@mautic.org
-Jonah Duckles, Organizational Mycology, jonah@orgmycology.com
-Eriol Fox, Open Source Design + Superbloom erioldoesdesign@gmail.com 
-Kathy Lussier - klussier@noblenet.org
-Sasha Reinoso, Do Good Data, sasha@wedogooddata.com
+## Co-authors 
+_Jona Azizaj, Ruth Cheesley, Jonah Duckles, Eriol Fox, Kathy Lussier, Sasha Reinoso_
 
 _Based on a SustainOSS conversation at the SustainOSS Summit of March 13, 2025, there was a vibrant discussion of the challenges and opportunities that come from considering succession planning and mentorship of community members in open source communities. Born from experience within open source projects, and acknowledging the challenges of handing off responsibilities and delegation of tasking we talked through and around these topics in the context of open source projects. We found that each of us have rather high standards, which makes it particularly hard to delegate tasks to others. So we worked to develop some tips and tricks for helping ourselves to bring forth energy and contribution from others, and ways in which our high standards can be shared and grown in others in the context of project missions._
 
